@@ -41,4 +41,3 @@ This analysis is adapted from [McWhite et al. 2016](https://academic.oup.com/ve/
     * result/HumanH3N2\_PSG.tsv
   * Output file:
     * graph/HumanH3N2\_ProVsPSG.png
-
