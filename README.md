@@ -5,7 +5,7 @@ This analysis is adapted from [McWhite et al. 2016](https://academic.oup.com/ve/
 * Fasta/pdmH1N1\_All.fa: 2009 pandemic H1N1 (swine flu) HA sequences downloaded from [GISAID](http://platform.gisaid.org)
 * Fasta/HumanH3N2\_All.fa: Human H3N2 HA sequences downloaded from [GISAID](http://platform.gisaid.org)
   * Since there is a limit on the number of sequences being downloaded at once on GISAID, sequences for this project was first downloaded separately based on continent. Then sequences from different continent were combined to a single Fasta file.
-* Fasta/Bris07\_fromNCBI.fa: 11 Bris07 sequences from the NCBI protein database (https://www.ncbi.nlm.nih.gov/protein/) were obtained by searching “A/Brisbane/10/2007, hemagglutinin”. 
+* Fasta/Bris07\_fromNCBI.fa: 11 Bris07 sequences from the NCBI protein database (https://www.ncbi.nlm.nih.gov/protein/) were obtained by searching **"A/Brisbane/10/2007", hemagglutinin**.
 
 ### Protocol
 #### Analyzing HA sequences from egg-passaged isolates downloaded from GISAID
