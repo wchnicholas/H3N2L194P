@@ -1,4 +1,4 @@
-This README describes the scripts used for the sequence analysis in:
+This README describes the scripts used for the sequence analysis in:   
 [A structural explanation for the low effectiveness of the seasonal influenza H3N2 vaccine](http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006682)
 
 ## H3N2 egg-adaptive substitution L194P
